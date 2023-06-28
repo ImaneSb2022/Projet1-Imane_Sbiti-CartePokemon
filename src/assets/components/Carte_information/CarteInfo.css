@@ -1,0 +1,9 @@
+.Info{
+    display: flex;
+    justify-content: space-between;
+}
+
+.Info div{
+    text-align: center;
+    width: 50%;
+}

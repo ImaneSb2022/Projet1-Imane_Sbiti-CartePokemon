@@ -1,0 +1,14 @@
+.carte-box{
+    padding: 1rem;
+    width: 20%;
+    margin: 1.1rem;
+}
+.CarteVerte{
+    border: 0.5rem #d0ff00 solid;
+    background-color: #f2ffba;
+}
+.CarteOrange{
+    border: 0.5rem #ff8800 solid;
+    background-color: #ffe8aa;
+}
+

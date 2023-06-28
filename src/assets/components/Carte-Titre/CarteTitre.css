@@ -1,0 +1,24 @@
+h1{
+    font-size: 4rem;
+    color: #d0ff00 ;
+    padding: 4rem 0;
+    text-align: center;
+}
+h2{
+    font-size: 3rem;
+    color: #036600 ;
+    padding: 3rem 0;
+    text-align: center;
+}
+h3{
+    font-size: 2rem;
+    color: #d400ff ;
+    text-decoration: underline;
+    font-style: italic;
+    padding: 1rem 0;
+    margin: 0;
+}
+  /*.titre_decoration{
+    
+  text-decoration: underline;
+}*/
