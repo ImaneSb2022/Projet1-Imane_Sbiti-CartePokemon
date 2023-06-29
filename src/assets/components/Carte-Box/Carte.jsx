@@ -8,11 +8,6 @@ import './Carte.css';
 
 const Carte = (props) => {
 
-
-
-
-
-
   const [isShown, setIsShown] = useState(false);
 
   const classnamesCarte = ["carte-box"];
@@ -25,12 +20,8 @@ const Carte = (props) => {
 
   return (
 
-
-
     <article className={classnamesCarte.join(" ")} onMouseEnter={() => setIsShown(true)}
     onMouseLeave={() => setIsShown(false)}>
-
-
 
     <Image 
         src={props.CarteImageSrc} 
@@ -46,8 +37,6 @@ const Carte = (props) => {
           <Info children1={props.Info1} children2={props.Info2} />
     </div>
     )}
-
-
 
     </article>
   )

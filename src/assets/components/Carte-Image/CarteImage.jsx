@@ -3,12 +3,8 @@ import './CarteImage.css';
 
 const CarteImage = (props) => {
 
-
-
-
     const classnames = ["image"];
     if (props.className) classnames.push(props.className);
-    
     
     return (
 
@@ -20,13 +16,7 @@ const CarteImage = (props) => {
         />
     </div>
     )
-
- /* return (
-    <div className='image' >
-        <img src="../public/images/Bulbizarre.jpg" loading="lazy" />
-    </div>
     
-  )*/
 }
 
 export default CarteImage;
