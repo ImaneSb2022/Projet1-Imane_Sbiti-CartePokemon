@@ -40,12 +40,12 @@ function App() {
 
         <Carte 
             FontVert 
-            CarteImageSrc="./public/images/Bulbizarre.png" 
-            CarteImageAlt="Bulbasaur"
+            CarteImageSrc="./public/images/Venusaur.png" 
+            CarteImageAlt="Venusaur"
             CarteImageLoading="Lazy"
-            CarteTitre="Bulbasaur"
+            CarteTitre="Venusaur"
             SousTitre1="Habiletés :"
-            CarteDescription="Avec Charmander et Squirtle , Bulbasaur est l'un des trois Pokémon de départ de Kanto disponibles au début de Pokémon Red, Green , Blue , FireRed et LeafGreen ."
+            CarteDescription="Venusaur est la mascotte du jeu Pokémon Green et son remake Pokémon LeafGreen, apparaissant sur la pochette des deux jeux."
             SousTitre2="Type :"
             Info1="Grass"
             Info2="poison"
@@ -53,27 +53,25 @@ function App() {
 
         <Carte 
             FontOrange
-            CarteImageSrc="./public/images/Bulbizarre.png" 
-            CarteImageAlt="Bulbasaur"
+            CarteImageSrc="./public/images/Charmander.png" 
+            CarteImageAlt="Charmander"
             CarteImageLoading="Lazy"
-            CarteTitre="Bulbasaur"
+            CarteTitre="Charmander"
             SousTitre1="Habiletés :"
-            CarteDescription="Avec Charmander et Squirtle , Bulbasaur est l'un des trois Pokémon de départ de Kanto disponibles au début de Pokémon Red, Green , Blue , FireRed et LeafGreen ."
+            CarteDescription="Avec Bulbasaur et Squirtle, Charmander est l'un des trois Pokémon de départ de Kanto disponibles au début de Pokémon Red, Green, Blue, FireRed et LeafGreen. ."
             SousTitre2="Type :"
-            Info1="Grass"
-            Info2="poison"
+            Info1="Feu"
         />
         <Carte 
             FontVert 
-            CarteImageSrc="./public/images/Bulbizarre.png" 
-            CarteImageAlt="Bulbasaur"
+            CarteImageSrc="./public/images/Charmeleon.png" 
+            CarteImageAlt="Charmeleon"
             CarteImageLoading="Lazy"
-            CarteTitre="Bulbasaur"
+            CarteTitre="Charmeleon"
             SousTitre1="Habiletés :"
-            CarteDescription="Avec Charmander et Squirtle , Bulbasaur est l'un des trois Pokémon de départ de Kanto disponibles au début de Pokémon Red, Green , Blue , FireRed et LeafGreen ."
+            CarteDescription="Il évolue de Charmander à partir du niveau 16 et évolue vers Charizard à partir du niveau 36."
             SousTitre2="Type :"
-            Info1="Grass"
-            Info2="poison"
+            Info1="Feu"
         />
 
     </section>
@@ -82,66 +80,62 @@ function App() {
       
       <Carte 
           FontVert 
-          CarteImageSrc="./public/images/Bulbizarre.png" 
-          CarteImageAlt="Bulbasaur"
+          CarteImageSrc="./public/images/Charizard.png" 
+          CarteImageAlt="Charizard"
           CarteImageLoading="Lazy"
-          CarteTitre="Bulbasaur"
+          CarteTitre="Charizard"
           SousTitre1="Habiletés :"
-          CarteDescription="Avec Charmander et Squirtle , Bulbasaur est l'un des trois Pokémon de départ de Kanto disponibles au début de Pokémon Red, Green , Blue , FireRed et LeafGreen ."
+          CarteDescription="Charizard est la mascotte du jeu Pokémon Red et son remake Pokémon FireRed, apparaissant sur la pochette des deux jeux."
           SousTitre2="Type :"
-          Info1="Grass"
-          Info2="poison"
+          Info1="Feu"
+          Info2="Flying"
         />
 
       <Carte 
           FontOrange
-          CarteImageSrc="./public/images/Bulbizarre.png" 
-          CarteImageAlt="Bulbasaur"
+          CarteImageSrc="./public/images/Squirtle.png" 
+          CarteImageAlt="Squirtle"
           CarteImageLoading="Lazy"
-          CarteTitre="Bulbasaur"
+          CarteTitre="Squirtle"
           SousTitre1="Habiletés :"
-          CarteDescription="Avec Charmander et Squirtle , Bulbasaur est l'un des trois Pokémon de départ de Kanto disponibles au début de Pokémon Red, Green , Blue , FireRed et LeafGreen ."
+          CarteDescription="Avec Bulbasaur et Charmander, Squirtle est l'un des trois Pokémon de départ de Kanto disponibles au début de Pokémon Red, Green, Blue, FireRed et LeafGreen."
           SousTitre2="Type :"
-          Info1="Grass"
-          Info2="poison"
+          Info1="Eau"
       />
 
       <Carte 
           FontVert 
-          CarteImageSrc="./public/images/Bulbizarre.png" 
-          CarteImageAlt="Bulbasaur"
+          CarteImageSrc="./public/images/Wartortle.png" 
+          CarteImageAlt="Wartortle"
           CarteImageLoading="Lazy"
-          CarteTitre="Bulbasaur"
+          CarteTitre="Wartortle"
           SousTitre1="Habiletés :"
-          CarteDescription="Avec Charmander et Squirtle , Bulbasaur est l'un des trois Pokémon de départ de Kanto disponibles au début de Pokémon Red, Green , Blue , FireRed et LeafGreen ."
+          CarteDescription="Il évolue de Squirtle à partir du niveau 16 et évolue vers Blastoise à partir du niveau 36."
           SousTitre2="Type :"
-          Info1="Grass"
-          Info2="poison"
+          Info1="Eau"
         />
 
       <Carte 
           FontOrange
-          CarteImageSrc="./public/images/Bulbizarre.png" 
-          CarteImageAlt="Bulbasaur"
+          CarteImageSrc="./public/images/Blastoise.png" 
+          CarteImageAlt="Blastoise"
           CarteImageLoading="Lazy"
-          CarteTitre="Bulbasaur"
+          CarteTitre="Blastoise"
           SousTitre1="Habiletés :"
-          CarteDescription="Avec Charmander et Squirtle , Bulbasaur est l'un des trois Pokémon de départ de Kanto disponibles au début de Pokémon Red, Green , Blue , FireRed et LeafGreen ."
+          CarteDescription="Blastoise est la mascotte du jeu des versions japonaises et internationales de Pokémon Blue, apparaissant sur le boxart des deux jeux."
           SousTitre2="Type :"
-          Info1="Grass"
-          Info2="poison"
+          Info1="Eau"
       />
       <Carte 
           FontVert 
-          CarteImageSrc="./public/images/Bulbizarre.png" 
-          CarteImageAlt="Bulbasaur"
+          CarteImageSrc="./public/images/Caterpie.png" 
+          CarteImageAlt="Caterpie"
           CarteImageLoading="Lazy"
-          CarteTitre="Bulbasaur"
+          CarteTitre="Caterpie"
           SousTitre1="Habiletés :"
-          CarteDescription="Avec Charmander et Squirtle , Bulbasaur est l'un des trois Pokémon de départ de Kanto disponibles au début de Pokémon Red, Green , Blue , FireRed et LeafGreen ."
+          CarteDescription="Il évolue en Metapod à partir du niveau 7, qui évolue en Butterfree à partir du niveau 10."
           SousTitre2="Type :"
-          Info1="Grass"
-          Info2="poison"
+          Info1="Bug"
       />
 
   </section>
